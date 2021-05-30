@@ -1,0 +1,10 @@
+.btn-wrapper > a .btn.primary.cta-v2 .cta-body {
+  border-color: #fff;
+  background-color: #0076ce;
+  color: #fff;
+}
+.btn-wrapper > a .btn.secondary.cta-v2 .cta-body {
+  border-color: #fff;
+  background-color: #fff;
+  color: #0076ce;
+}
